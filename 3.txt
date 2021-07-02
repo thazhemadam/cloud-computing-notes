@@ -1,8 +1,0 @@
-Lecture 3
-
-5 technologies that enable cloud computing
--> Broadband networks & internet architecture
--> Data Center tech
--> Virtualization tech
--> Web tech
--> Multitenant tech
